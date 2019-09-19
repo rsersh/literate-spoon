@@ -1,0 +1,643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2019-09-10T05:11:54Z</date>
+	<key>Application Version</key><string>12.7.2.60</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>C00BC3C139AC0DBD</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1352</key>
+		<dict>
+			<key>Track ID</key><integer>1352</integer>
+			<key>Name</key><string>The Incredibles</string>
+			<key>Artist</key><string>Pixar</string>
+			<key>Genre</key><string>Kids &#38; Family</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1715494397</integer>
+			<key>Total Time</key><integer>6920838</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-07-23T02:22:43Z</date>
+			<key>Date Added</key><date>2009-07-13T02:55:49Z</date>
+			<key>Bit Rate</key><integer>121</integer>
+			<key>Play Count</key><integer>8</integer>
+			<key>Play Date</key><integer>3645956542</integer>
+			<key>Play Date UTC</key><date>2019-07-14T20:42:22Z</date>
+			<key>Release Date</key><date>2004-11-05T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Pixar</string>
+			<key>Sort Name</key><string>Incredibles</string>
+			<key>Persistent ID</key><string>621F150F562138B9</string>
+			<key>Content Rating</key><string>mpaa|PG|200|For action violence.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>356</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/The%20Incredibles/The%20Incredibles.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1354</key>
+		<dict>
+			<key>Track ID</key><integer>1354</integer>
+			<key>Name</key><string>The Hitchhikers Guide to the Galaxy</string>
+			<key>Artist</key><string>Garth Jennings</string>
+			<key>Genre</key><string>Sci-Fi &#38; Fantasy</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1727230916</integer>
+			<key>Total Time</key><integer>6534034</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-01-12T19:31:30Z</date>
+			<key>Date Added</key><date>2010-06-19T02:09:27Z</date>
+			<key>Bit Rate</key><integer>122</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3607426858</integer>
+			<key>Play Date UTC</key><date>2018-04-24T22:00:58Z</date>
+			<key>Release Date</key><date>2005-03-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Garth Jennings</string>
+			<key>Sort Name</key><string>Hitchhikers Guide to the Galaxy</string>
+			<key>Persistent ID</key><string>DC29C149FA3E1991</string>
+			<key>Content Rating</key><string>mpaa|PG|200|For thematic elements, action and mild language.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>354</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/The%20Hitchhikers%20Guide%20to%20the%20Galaxy/The%20Hitchhikers%20Guide%20to%20the%20Galaxy.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1356</key>
+		<dict>
+			<key>Track ID</key><integer>1356</integer>
+			<key>Name</key><string>High Fidelity</string>
+			<key>Artist</key><string>Stephen Frears</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1783782391</integer>
+			<key>Total Time</key><integer>6836503</integer>
+			<key>Year</key><integer>2000</integer>
+			<key>Date Modified</key><date>2014-07-23T02:55:39Z</date>
+			<key>Date Added</key><date>2008-11-20T04:25:01Z</date>
+			<key>Bit Rate</key><integer>122</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3608179308</integer>
+			<key>Play Date UTC</key><date>2018-05-03T15:01:48Z</date>
+			<key>Release Date</key><date>2000-03-31T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Stephen Frears</string>
+			<key>Sort Name</key><string>High Fidelity</string>
+			<key>Persistent ID</key><string>12C43E44C1695347</string>
+			<key>Content Rating</key><string>mpaa|R|400|For language and some sexuality.    </string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>462</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/High%20Fidelity/High%20Fidelity.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1358</key>
+		<dict>
+			<key>Track ID</key><integer>1358</integer>
+			<key>Name</key><string>A Bug's Life</string>
+			<key>Artist</key><string>John Lasseter</string>
+			<key>Album</key><string>The Incredibles / A Bug's Life - Rebelling Against a Villain</string>
+			<key>Genre</key><string>Kids &#38; Family</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1556940799</integer>
+			<key>Total Time</key><integer>5714006</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>1998</integer>
+			<key>Date Modified</key><date>2014-07-11T03:18:33Z</date>
+			<key>Date Added</key><date>2009-12-30T06:49:00Z</date>
+			<key>Bit Rate</key><integer>103</integer>
+			<key>Play Count</key><integer>13</integer>
+			<key>Play Date</key><integer>3649523447</integer>
+			<key>Play Date UTC</key><date>2019-08-25T03:30:47Z</date>
+			<key>Release Date</key><date>1998-11-25T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Incredibles / A Bug's Life - Rebelling Against a Villain</string>
+			<key>Sort Artist</key><string>John Lasseter</string>
+			<key>Sort Name</key><string>Bug's Life</string>
+			<key>Persistent ID</key><string>E11610A0339538AC</string>
+			<key>Content Rating</key><string>mpaa|G|100|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>360</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/A%20Bug's%20Life/02%20A%20Bug's%20Life.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1372</key>
+		<dict>
+			<key>Track ID</key><integer>1372</integer>
+			<key>Name</key><string>The Nightmare Before Christmas</string>
+			<key>Artist</key><string>Henry Selick</string>
+			<key>Album</key><string>Tim Burton Movie Bundle</string>
+			<key>Genre</key><string>Kids &#38; Family</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1274940319</integer>
+			<key>Total Time</key><integer>4589965</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>1993</integer>
+			<key>Date Modified</key><date>2014-07-23T02:09:59Z</date>
+			<key>Date Added</key><date>2010-06-05T03:46:33Z</date>
+			<key>Bit Rate</key><integer>124</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3632670465</integer>
+			<key>Play Date UTC</key><date>2019-02-11T03:07:45Z</date>
+			<key>Release Date</key><date>1993-10-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tim Burton Movie Bundle</string>
+			<key>Sort Artist</key><string>Henry Selick</string>
+			<key>Sort Name</key><string>Nightmare Before Christmas</string>
+			<key>Persistent ID</key><string>788280153BC71A0B</string>
+			<key>Content Rating</key><string>mpaa|PG|200|For some scary images.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>602</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/The%20Nightmare%20Before%20Christmas/02%20The%20Nightmare%20Before%20Christmas.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1388</key>
+		<dict>
+			<key>Track ID</key><integer>1388</integer>
+			<key>Name</key><string>Be Cool</string>
+			<key>Artist</key><string>F. Gary Gray</string>
+			<key>Album</key><string>Rappers Turned Actors</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>2021271605</integer>
+			<key>Total Time</key><integer>7182850</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2014-07-22T22:48:27Z</date>
+			<key>Date Added</key><date>2008-12-28T06:32:28Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Play Count</key><integer>6</integer>
+			<key>Play Date</key><integer>3607755094</integer>
+			<key>Play Date UTC</key><date>2018-04-28T17:11:34Z</date>
+			<key>Release Date</key><date>2005-04-08T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Rappers Turned Actors</string>
+			<key>Sort Artist</key><string>F. Gary Gray</string>
+			<key>Sort Name</key><string>Be Cool</string>
+			<key>Persistent ID</key><string>0DCB681F945A035D</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>354</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Be%20Cool/01%20Be%20Cool.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1454</key>
+		<dict>
+			<key>Track ID</key><integer>1454</integer>
+			<key>Name</key><string>Up</string>
+			<key>Artist</key><string>Pixar</string>
+			<key>Album</key><string>Finding Nemo / Up - Adventures with a Strange Pair to Faraway Lands</string>
+			<key>Genre</key><string>Kids &#38; Family</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1597240965</integer>
+			<key>Total Time</key><integer>5795963</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2015-03-06T06:18:05Z</date>
+			<key>Date Added</key><date>2009-12-04T04:15:52Z</date>
+			<key>Bit Rate</key><integer>122</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3566721420</integer>
+			<key>Play Date UTC</key><date>2017-01-08T19:57:00Z</date>
+			<key>Release Date</key><date>2009-05-29T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Finding Nemo / Up - Adventures with a Strange Pair to Faraway Lands</string>
+			<key>Sort Artist</key><string>Pixar</string>
+			<key>Sort Name</key><string>Up</string>
+			<key>Persistent ID</key><string>E26DA9087035C26D</string>
+			<key>Content Rating</key><string>mpaa|PG|200|For some peril and action.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Up/01%20Up.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>1458</key>
+		<dict>
+			<key>Track ID</key><integer>1458</integer>
+			<key>Name</key><string>Avatar (2009)</string>
+			<key>Artist</key><string>James Cameron</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>2542242967</integer>
+			<key>Total Time</key><integer>9702335</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2014-10-04T03:52:59Z</date>
+			<key>Date Added</key><date>2010-04-24T03:12:02Z</date>
+			<key>Bit Rate</key><integer>123</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3606131110</integer>
+			<key>Play Date UTC</key><date>2018-04-09T22:05:10Z</date>
+			<key>Release Date</key><date>2009-12-18T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>James Cameron</string>
+			<key>Sort Name</key><string>Avatar (2009)</string>
+			<key>Persistent ID</key><string>CA6B5200C2365AFB</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|for intense epic battle sequences and warfare, sensuality, language and some smoking.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Avatar%20(2009)/Avatar%20(2009).m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3152</key>
+		<dict>
+			<key>Track ID</key><integer>3152</integer>
+			<key>Name</key><string>Cars</string>
+			<key>Artist</key><string>Pixar</string>
+			<key>Album</key><string>Cars, Cars 2 &#38; Mater's Tall Tales Bundle</string>
+			<key>Genre</key><string>Kids &#38; Family</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1769023849</integer>
+			<key>Total Time</key><integer>6992710</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2015-11-11T00:09:40Z</date>
+			<key>Date Added</key><date>2009-11-14T08:26:52Z</date>
+			<key>Bit Rate</key><integer>101</integer>
+			<key>Play Count</key><integer>11</integer>
+			<key>Play Date</key><integer>3634280909</integer>
+			<key>Play Date UTC</key><date>2019-03-01T18:28:29Z</date>
+			<key>Release Date</key><date>2006-06-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Cars, Cars 2 &#38; Mater's Tall Tales Bundle</string>
+			<key>Sort Artist</key><string>Pixar</string>
+			<key>Sort Name</key><string>Cars</string>
+			<key>Persistent ID</key><string>AE7017D726622305</string>
+			<key>Content Rating</key><string>mpaa|G|100|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>356</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Cars/01%20Cars.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3154</key>
+		<dict>
+			<key>Track ID</key><integer>3154</integer>
+			<key>Name</key><string>Jack-Jack Attack</string>
+			<key>Artist</key><string>Pixar</string>
+			<key>Genre</key><string>Short Films</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>78354845</integer>
+			<key>Total Time</key><integer>286555</integer>
+			<key>Year</key><integer>2005</integer>
+			<key>Date Modified</key><date>2015-10-22T00:35:41Z</date>
+			<key>Date Added</key><date>2009-07-04T05:21:34Z</date>
+			<key>Bit Rate</key><integer>119</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Release Date</key><date>2005-01-01T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Pixar</string>
+			<key>Sort Name</key><string>Jack-Jack Attack</string>
+			<key>Persistent ID</key><string>9C4D76DFBB62A9CE</string>
+			<key>Content Rating</key><string>mpaa|Unrated|900|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>480</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Jack-Jack%20Attack/Jack-Jack%20Attack.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>3156</key>
+		<dict>
+			<key>Track ID</key><integer>3156</integer>
+			<key>Name</key><string>Alice In Wonderland</string>
+			<key>Artist</key><string>Tim Burton</string>
+			<key>Album</key><string>Tim Burton Movie Bundle</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1639372271</integer>
+			<key>Total Time</key><integer>6515982</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2010</integer>
+			<key>Date Modified</key><date>2015-11-05T04:16:02Z</date>
+			<key>Date Added</key><date>2010-06-05T03:46:33Z</date>
+			<key>Bit Rate</key><integer>123</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3607599583</integer>
+			<key>Play Date UTC</key><date>2018-04-26T21:59:43Z</date>
+			<key>Release Date</key><date>2010-03-05T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Tim Burton Movie Bundle</string>
+			<key>Sort Artist</key><string>Tim Burton</string>
+			<key>Sort Name</key><string>Alice In Wonderland (2010)</string>
+			<key>Persistent ID</key><string>D3EEABBA7EE35282</string>
+			<key>Content Rating</key><string>mpaa|PG|200|for fantasy action/violence involving scary images and situations, and for a smoking caterpillar.</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>640</integer>
+			<key>Video Height</key><integer>474</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Alice%20In%20Wonderland/01%20Alice%20In%20Wonderland.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4878</key>
+		<dict>
+			<key>Track ID</key><integer>4878</integer>
+			<key>Name</key><string>Whip It</string>
+			<key>Artist</key><string>Drew Barrymore</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1699724336</integer>
+			<key>Total Time</key><integer>6653072</integer>
+			<key>Year</key><integer>2009</integer>
+			<key>Date Modified</key><date>2018-04-29T16:53:56Z</date>
+			<key>Date Added</key><date>2010-02-15T00:46:42Z</date>
+			<key>Bit Rate</key><integer>121</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3607921030</integer>
+			<key>Play Date UTC</key><date>2018-04-30T15:17:10Z</date>
+			<key>Release Date</key><date>2009-10-02T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Drew Barrymore</string>
+			<key>Sort Name</key><string>Whip It</string>
+			<key>Persistent ID</key><string>7FC084057F88C305</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>720</integer>
+			<key>Video Height</key><integer>352</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Whip%20It/Whip%20It.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>4884</key>
+		<dict>
+			<key>Track ID</key><integer>4884</integer>
+			<key>Name</key><string>Raising Arizona</string>
+			<key>Artist</key><string>Joel Coen</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Protected MPEG-4 video file</string>
+			<key>Size</key><integer>1622921285</integer>
+			<key>Total Time</key><integer>5655655</integer>
+			<key>Year</key><integer>1987</integer>
+			<key>Date Modified</key><date>2018-04-29T15:55:58Z</date>
+			<key>Date Added</key><date>2018-04-29T15:22:43Z</date>
+			<key>Bit Rate</key><integer>121</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3607913677</integer>
+			<key>Play Date UTC</key><date>2018-04-30T13:14:37Z</date>
+			<key>Release Date</key><date>1987-03-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Joel Coen</string>
+			<key>Sort Name</key><string>Raising Arizona</string>
+			<key>Persistent ID</key><string>F17F87AEB21D60F2</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|</string>
+			<key>Track Type</key><string>File</string>
+			<key>Protected</key><true/>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Video Width</key><integer>720</integer>
+			<key>Video Height</key><integer>460</integer>
+			<key>Movie</key><true/>
+			<key>Location</key><string>file:///Users/rrhunt/Music/iTunes/iTunes%20Media/Movies/Raising%20Arizona/Raising%20Arizona.m4v</string>
+			<key>File Folder Count</key><integer>4</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>6338</key>
+		<dict>
+			<key>Track ID</key><integer>6338</integer>
+			<key>Name</key><string>50 First Dates</string>
+			<key>Artist</key><string>Peter Segal</string>
+			<key>Album</key><string>50 First Dates / Anger Management / Big Daddy - set</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Purchased MPEG-4 video file</string>
+			<key>Size</key><integer>1493958309</integer>
+			<key>Total Time</key><integer>5943985</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>3</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2016-04-28T13:53:10Z</date>
+			<key>Date Added</key><date>2009-02-14T02:33:41Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Release Date</key><date>2004-02-13T08:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>50 First Dates / Anger Management / Big Daddy - set</string>
+			<key>Sort Artist</key><string>Peter Segal</string>
+			<key>Sort Name</key><string>50 First Dates</string>
+			<key>Persistent ID</key><string>D18911FD1DEF4799</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|for crude sexual humor and drug references.</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Movie</key><true/>
+		</dict>
+		<key>6428</key>
+		<dict>
+			<key>Track ID</key><integer>6428</integer>
+			<key>Name</key><string>Bringing Down the House</string>
+			<key>Artist</key><string>Adam Shankman</string>
+			<key>Genre</key><string>Comedy</string>
+			<key>Kind</key><string>Purchased MPEG-4 video file</string>
+			<key>Size</key><integer>1273914942</integer>
+			<key>Total Time</key><integer>6313397</integer>
+			<key>Year</key><integer>2003</integer>
+			<key>Date Modified</key><date>2016-04-28T13:53:10Z</date>
+			<key>Date Added</key><date>2009-06-15T03:45:40Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Release Date</key><date>2003-08-05T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Artist</key><string>Adam Shankman</string>
+			<key>Sort Name</key><string>Bringing Down the House</string>
+			<key>Persistent ID</key><string>4AE5218C72B8C8B4</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|For Language, Sexual Humor And Drug Material</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Movie</key><true/>
+		</dict>
+		<key>6538</key>
+		<dict>
+			<key>Track ID</key><integer>6538</integer>
+			<key>Name</key><string>Spider-Man 3</string>
+			<key>Artist</key><string>Sam Raimi</string>
+			<key>Album</key><string>Spider-Man 6 Film Collection</string>
+			<key>Genre</key><string>Action &#38; Adventure</string>
+			<key>Kind</key><string>Purchased MPEG-4 video file</string>
+			<key>Size</key><integer>2237703223</integer>
+			<key>Total Time</key><integer>8348512</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>6</integer>
+			<key>Year</key><integer>2007</integer>
+			<key>Date Modified</key><date>2017-03-02T11:01:01Z</date>
+			<key>Date Added</key><date>2011-09-24T02:03:54Z</date>
+			<key>Play Count</key><integer>1</integer>
+			<key>Release Date</key><date>2007-05-04T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Spider-Man 6 Film Collection</string>
+			<key>Sort Artist</key><string>Sam Raimi</string>
+			<key>Sort Name</key><string>Spider-Man 3</string>
+			<key>Persistent ID</key><string>62B909DA68776331</string>
+			<key>Content Rating</key><string>mpaa|PG-13|300|for sequences of intense action violence.</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+			<key>Has Video</key><true/>
+			<key>HD</key><false/>
+			<key>Movie</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>9851</integer>
+			<key>Playlist Persistent ID</key><string>0BFBF9796258BBCE</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>3156</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1458</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1388</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6428</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1358</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1356</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1354</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1352</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>3154</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1372</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4884</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6538</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>1454</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>4878</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>6338</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
