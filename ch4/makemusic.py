@@ -8,12 +8,9 @@
 #    doing nothing
 
 
-import sys
-import os
-import time
-import random
-import wave
-import argparse
+import sys, os
+import time, random
+import wave, argparse 
 import pygame
 from pygame.locals import *
 import numpy as np
@@ -39,8 +36,7 @@ def writeWAVE(filename, data):
     # for best practices with file.open
     with wave.open(filename, 'wb') as fd:
         # set parameters
-        fd.setparams((nChannels, sampleWidth, frameRate, nFrames,
-                      'NONE', 'noncompressed'))
+        fd.setparams((nChannels, sampleWidth, frameRate, nFrames,'NONE', 'noncompressed'))
         fd.writeframes(data)
 
 
@@ -54,20 +50,25 @@ def generateNote(freq):
     # plot of flag set
     if gShowPlot:
         axline, = plt.plot(buf)
-        print(axline)
     # initialize samples buffer
     samples = np.array([0]*nSamples, 'float32')
     for i in range(nSamples):
         samples[i] = buf[0]
+        #if i == 0:
+         #   print("Debug statement - printing buf[0] & buf[1]: %s %s ", buf[0], buf[1])
         avg = 0.995*0.5*(buf[0] + buf[1])
         buf.append(avg)
+        #print("Debug statement - appending avg %s to buf: ", avg)
         buf.popleft()
+        #print("Debug statement - popping from the left: ", avg)
         # plot of flag set
+        #print("Debug statement - Printing value of gShowPlot & i: %s, %d", gShowPlot, i)
         if gShowPlot:
             if i % 1000 == 0:
                 axline.set_ydata(buf)
-                plt.draw()
-                plt.show()
+                # needed to assign to fig so could call the canvas.draw() attributes
+                fig.canvas.draw()
+
     # convert samples to 16-bit values and then to a string
     # the maximum value is 32767 for 16-bit
     samples = np.array(samples*32767, 'int16')
@@ -87,19 +88,29 @@ class NotePlayer:
     # play a note
     def play(self, fileName):
         try:
+            #print(notes[fileName]) 
+            #note = list(self.notes.values())[fileName]
+            #note.play() 
             self.notes[fileName].play()
         except:
             print (fileName + ' not found!')
     def playRandom(self):
         """play a random note"""
         index = random.randint(0, len(self.notes)-1)
-        note = list(self.notes.values())[index]
-        note.play()
+        try: 
+            note = list(self.notes.values())[index]
+            # Debug statement below
+            # print(type(note))
+            note.play()
+        except KeyboardInterrupt:
+            exit()
+           
 
 # main() function
 def main():
     # declare global var
     global gShowPlot
+    global fig
     desc =  "Generating sounds with Karplus String Algorithm"
     parser = argparse.ArgumentParser(description=desc) 
     # add arguments
@@ -109,13 +120,17 @@ def main():
     args = parser.parse_args()
 
     # show plot if flag set
+    # line 117 doesn't seem to be executing
+
     if args.display:
         gShowPlot = True
         plt.ion()
-
+        # needed to add below assignment to call later to update
+        fig = plt.figure()
+    
     # create note player
     nplayer = NotePlayer()
-
+    
     print('creating notes...')
     for name, freq in list(pmNotes.items()):
         fileName = name + '.wav'
@@ -125,38 +140,49 @@ def main():
             writeWAVE(fileName, data)
         else:
             print('fileName already created. skipping...')
-
         # add note to player
-        nplayer.add(name + '.wav')
+        nplayer.add(fileName)
 
+        # Debug statement below
+        # print(nplayer)    
         # play note if display flag is set
         if args.display:
             nplayer.play(name + '.wav')
             time.sleep(0.5)
-
-        # play a random tune
-        if args.play:
-            while True:
-                try:
-                    nplayer.playRandom()
-                    # rest - 1 to 8 beats
-                    rest = np.random.choice([1,2,4,8], 1, 
-                                            p=[0.15, 0.7, 0.1, 0.05])
-                    time.sleep(0.25*rest[0])
-                except KeyboardInterrupt:
-                    exit()
-
-        # random piano mode
-        if args.piano:
-            while True:
-                for event in pygame.event.get():
-                    if (event.type == pygame.KEYUP):
-                        print("key pressed")
+            #plt.show()
+        
+        # play a random tune - this works
+    if args.play:
+        while True:
+            try:
+                nplayer.playRandom()
+                # rest - 1 to 8 beats
+                rest = np.random.choice([1,2,4,8], 1, p=[0.15, 0.7, 0.1, 0.05])
+                time.sleep(0.25*rest[0])
+            except KeyboardInterrupt:
+                sys.exit()
+                
+    # random piano mode
+    if args.piano:
+        WINDOW_WIDTH = 400
+        WINDOW_HEIGHT = 400
+        while True:
+            game_window = pygame.display.set_mode((WINDOW_WIDTH, WINDOW_HEIGHT))
+            for event in pygame.event.get():
+                # print(event)    
+                # looks like i need to remove the pygame
+                #if (event.type == pygame.KEYUP):
+                #if (event.type == KEYUP): 
+                #if event.type == KEYUP:
+                if event.type == KEYDOWN:
+                    if event.key == K_RIGHT:
+                        print("key pressed")    
+                        # try:
                         nplayer.playRandom()
                         time.sleep(0.5)
-
+                        pygame.display.update()
+    pygame.quit()
+    sys.exit()
 # call main
 if __name__ == '__main__':
     main()
- 
- 
